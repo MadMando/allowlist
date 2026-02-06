@@ -6,3 +6,4 @@ clients4.google.com
 clients6.google.com
 ssl.gstatic.com
 gstatic.com
+ogads-pa.clients6.google.com
