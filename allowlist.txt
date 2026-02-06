@@ -1,0 +1,6 @@
+messages.google.com
+mtalk.google.com
+firebase.googleapis.com
+firebaseinstallations.googleapis.com
+clients4.google.com
+clients6.google.com
