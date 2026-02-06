@@ -4,3 +4,5 @@ firebase.googleapis.com
 firebaseinstallations.googleapis.com
 clients4.google.com
 clients6.google.com
+ssl.gstatic.com
+gstatic.com
