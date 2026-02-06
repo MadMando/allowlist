@@ -7,3 +7,4 @@ clients6.google.com
 ssl.gstatic.com
 gstatic.com
 ogads-pa.clients6.google.com
+mobile.events.data.microsoft.com
